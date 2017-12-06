@@ -1,0 +1,73 @@
+@media screen and (max-width: 790px) {
+    
+   body { 
+      font-size: 1em; 
+   }
+
+   .notice-notice {
+      display: ;
+   }
+}
+
+@media screen and (max-width:320px) {
+  .user-info {
+    text-align: left;
+    font-size: .9em;
+  }
+
+  .img-logo {
+    width: 95%;
+  }
+}
+@media screen and (max-width: 420px) {
+  .username {
+    display: none;
+  }
+ 
+  .login {
+    margin-left: 0;
+  }
+}
+@media screen and (max-width: 450px) {
+  .username {
+    display: none;
+  }
+  .user-info {
+    font-size: 10px;
+  }
+}
+@media screen and (max-width: 487px) {
+  .user-info {
+    font-size: .8em;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  /*.marquee-notice {
+    width: 90%;
+    float: left;
+    background: green;
+  }*/
+  
+  .user-info {
+    font-size: .9em;
+  }
+
+  .login {
+    margin-left: 0;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  
+}
+
+@media screen and (max-width: 1199px) {
+
+  .login {
+    position: relative;
+    right: 20px;
+
+  }
+
+}
